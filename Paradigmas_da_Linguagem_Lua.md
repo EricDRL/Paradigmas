@@ -13,6 +13,7 @@ padrão), e strings. As estruturas de dados comuns, tais como matrizes, conjunto
 listas, e registros podem ser representados por meio de Lua. Lua não foi construída com 
 suporte para programação orientada a objeto.
 Resumidamente, Lua é multiparadigma.
+
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 Olá mundo e tabuada com recebimento de valores: 
@@ -26,6 +27,7 @@ local n = tonumber(io.read())
 for i = 1, 10 do  
 print(n .." x ".. i .." = ".. (n * i))
 end
+
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 Vagas focadas em Lua e faixa salarial: 
