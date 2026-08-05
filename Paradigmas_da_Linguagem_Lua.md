@@ -1,4 +1,4 @@
-Paradigmas da Linguagem Lua: 
+Paradigmas da Linguagem Lua:
 Lua é normalmente descrita como uma linguagem de múltiplos paradigmas, oferecendo 
 um pequeno conjunto de características gerais que podem ser estendidas para encaixar 
 diferentes tipos de problemas, em vez de fornecer uma especificação mais complexa e 
@@ -11,7 +11,7 @@ Lua é uma linguagem que suporta apenas um pequeno número de estruturas, tais c
 dados atômicos, valores booleanos, números (dupla precisão em ponto flutuante por 
 padrão), e strings. As estruturas de dados comuns, tais como matrizes, conjuntos, tabelas, 
 listas, e registros podem ser representados por meio de Lua. Lua não foi construída com 
-suporte para programação orientada a objeto. 
+suporte para programação orientada a objeto.
 Resumidamente, Lua é multiparadigma.
 
 Olá mundo e tabuada com recebimento de valores: 
@@ -23,13 +23,12 @@ print("Digite um número:")
 local n = tonumber(io.read())  
  
 for i = 1, 10 do  
-print(n .." x ".. i .." = ".. (n * i)) 
+print(n .." x ".. i .." = ".. (n * i))
 end
 
 Vagas focadas em Lua e faixa salarial: 
 https://br.linkedin.com/jobs/view/copy-of-senior-lua-developer-roblox-%E2%80%93-
-ai-code-evaluation-at-upwork-
-4443268669?position=40&pageNum=0&refId=4p2QnEQBzFoP9erziV5POg%3D%3D
+ai-code-evaluation-at-upwork-4443268669?position=40&pageNum=0&refId=4p2QnEQBzFoP9erziV5POg%3D%3D
 &trackingId=NMC8d5rMP0x0zZx41xlfTg%3D%3D 
 
 Faixa salarial base US$ 50,00 por hora - US$ 65,00 por hora 
