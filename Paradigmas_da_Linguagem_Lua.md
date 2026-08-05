@@ -33,8 +33,6 @@ ai-code-evaluation-at-upwork-4443268669?position=40&pageNum=0&refId=4p2QnEQBzFoP
 
 Faixa salarial base US$ 50,00 por hora - US$ 65,00 por hora 
 
-https://br.linkedin.com/jobs/view/lua-programmer-at-alignerr-
-4447234822?position=5&pageNum=0&refId=4p2QnEQBzFoP9erziV5POg%3D%3D&
-trackingId=nK%2FuX6YQn9okPM%2BrUcZjcQ%3D%3D 
+https://br.linkedin.com/jobs/view/lua-programmer-at-alignerr-4447234822?position=5&pageNum=0&refId=4p2QnEQBzFoP9erziV5POg%3D%3D&trackingId=nK%2FuX6YQn9okPM%2BrUcZjcQ%3D%3D 
 
 Up to $60/hour, depending on project availability 
